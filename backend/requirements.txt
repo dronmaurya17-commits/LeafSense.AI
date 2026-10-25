@@ -1,0 +1,5 @@
+fastapi>=0.110,<1
+uvicorn>=0.29,<1
+onnxruntime>=1.17,<2
+numpy>=1.26,<3
+pillow>=10,<12
